@@ -10,9 +10,14 @@ A designer wants to evaluate two interfaces A and B. He designed an experiment, 
 – Each column represent a task.
 
 1. Write the python code to read the data and decide which interface is better. Your code should:
-2. 
+
+
 • Display which system is better with respect to task 1, and the statistical measure used. 
+
 • Display which system is better with respect to task 2, and the statistical measure used. 
+
 • Display which system is better with respect to task 3, and the statistical measure used. 
+
 • Display which system is better with respect to task k, and the statistical measure used. 
+
 • Display which system is better, and the statistical measure used.
